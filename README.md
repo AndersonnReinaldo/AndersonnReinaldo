@@ -7,14 +7,24 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
-const Anderson =  {
+ const anderson = (novasHabilidades, novasLinguagens) => {
  const nome = "Anderson dos santos reinaldo"
+ 
  let conhecimentos = "Conhecimentos solidos em frontEnd e backEnd"
- let habilidades = ['ReactJS', 'React Native', 'Node', 'Php']
- let algumasHabildades = [...habilidades, 'Git', 'Linux', 'Redux'] //Nao para por aqui!!
- let linguagens = new Array("JavaScript", "TypeScript", "PhP", "Sql") 
-
+ let algumasHabildades = ['ReactJS', 'React Native', 'Node', 'Php']
+ let habilidades = [...novasHabilidades, ...algumasHabildades, 'Git', 'Linux', 'Redux'] // Nao para por aqui!!
+ let linguagens = [...novasLinguagens, "JavaScript", "TypeScript", "PhP", "Sql"] 
+ 
+ return {
+  nome,
+  conhecimentos,
+  habilidades,
+  linguagens
 }
+
+anderson([...], [...]);
+
+
 ```
 
 ## **Linguagens e Ferramentas:**  
