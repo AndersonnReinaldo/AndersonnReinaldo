@@ -33,16 +33,16 @@ const Anderson =  {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/AndersonnReinaldo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/AndersonnReinaldo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="Anderson Reinaldo github stats"/>
 </a>
 
 [instagram]: https://www.instagram.com/andersonn.tt/
-[linkedin]: https://www.linkedin.com/in/Anderson Reinaldo/
+[linkedin]: https://www.linkedin.com/in/anderson-reinaldo-823b15206/
 <br>
 
 #### Rede Sociais!
