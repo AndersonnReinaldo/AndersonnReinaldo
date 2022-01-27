@@ -20,7 +20,9 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
   conhecimentos,
   habilidades,
   linguagens
-}
+    }
+    
+  }
 
 anderson([...], [...]);
 
