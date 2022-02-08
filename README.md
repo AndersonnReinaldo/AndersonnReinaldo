@@ -45,17 +45,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
 
-
-## **GitHub Estatísticas**
-
-<a href="https://github.com/AndersonnReinaldo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="Anderson Reinaldo github stats"/>
-</a>
-
-[instagram]: https://www.instagram.com/andersonn.tt/
-[linkedin]: https://www.linkedin.com/in/anderson-reinaldo-823b15206/
-<br>
-
 #### Rede Sociais!
 
 📷 [instagram][instagram] **|** 
