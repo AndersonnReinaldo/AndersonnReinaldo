@@ -49,10 +49,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/AndersonnReinaldo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/AndersonnReinaldo">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="Anderson Reinaldo github stats"/>
 </a>
 
